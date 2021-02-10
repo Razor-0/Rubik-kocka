@@ -32,10 +32,12 @@ p{
   padding: 7px;
   font-weight: normal;
   background-color: lightgray;
+  font-style: italic;
 }
 
 li{
   font-weight:bold;
+  list-style-type: circle;
 }
 
 .methods{

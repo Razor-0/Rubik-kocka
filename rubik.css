@@ -31,8 +31,13 @@ p{
   font-size: 70%;
   padding: 7px;
   font-weight: normal;
+  background-color: white;
 }
 
 li{
   font-weight:bold;
+}
+
+.methods{
+  background-color: white;
 }
